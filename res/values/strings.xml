@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Resistencias ByChuck</string>
+    <string name="TextV">Calculo de valores.</string>
+    <string name="Textv">Calculo de valores sirve para calcular los diferentes valores como lo son:</string>
+    <string name="Resist">Val. Resistencia</string>
+    <string name="Volt">Val. Voltaje</string>
+    <string name="Inten">Val. Intencidad</string>
+    <string name="Displa">Calcular</string>
+    <string name="Resul">Resultado:</string>
+    <string name="Val1">Introduce tu primer valor:</string>
+    <string name="Val2">Introduce tu segundo valor:</string>
+
+</resources>
